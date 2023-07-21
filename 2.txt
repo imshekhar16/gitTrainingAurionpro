@@ -1,1 +1,2 @@
-this 2.txt is on master branch
+<<<<<<<
+this is revised version 2.
